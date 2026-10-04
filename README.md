@@ -36,6 +36,7 @@ Based on the analyzed financial data dataset, the core insights include:
 
 ---
 ### 🛠️ Tools Used / الأدوات المستخدمة
-* **Advanced Microsoft Excel:** Data cleaning, Pivot Tables creation, and descriptive financial statistics.
+* **Advanced Microsoft Excel:** Data cleaning, Pivot Tables creation, and descriptive financial statistics.4.
+* [📊 Interactive Financial Dashboard on Tableau Public](https://tableau.com)
 # My-First-Data-Project
  Data analysis project using Excel and Python to practice data cleaning and visualization.
